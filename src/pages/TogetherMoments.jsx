@@ -20,7 +20,7 @@ const eventPhotos = [
   { id: 13, type: 'event', url: '/images/100.jpg', title: '두근두근, 오늘의 행운은?' },
   { id: 14, type: 'event', url: '/images/101.jpg', title: '당첨보다 더 큰 미소' },
   { id: 15, type: 'event', url: '/images/102.jpg', title: '행복을 한아름 안고' },
-  { id: 16, type: 'event', url: '/images/103.jpg', title: '행운은 누가에게?' },
+  { id: 16, type: 'event', url: '/images/103.jpg', title: '행운은 누구에게?' },
   { id: 17, type: 'event', url: '/images/104.jpg', title: '걸음에서도 느껴지는 기쁨' },
   { id: 18, type: 'event', url: '/images/105.jpg', title: '기쁨이 터지는 순간' },
 ];
