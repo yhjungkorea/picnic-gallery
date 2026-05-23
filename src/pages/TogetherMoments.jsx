@@ -23,6 +23,18 @@ const eventPhotos = [
   { id: 16, type: 'event', url: '/images/103.jpg', title: '행운은 누구에게?' },
   { id: 17, type: 'event', url: '/images/104.jpg', title: '걸음에서도 느껴지는 기쁨' },
   { id: 18, type: 'event', url: '/images/105.jpg', title: '기쁨이 터지는 순간' },
+  { id: 19, type: 'event', url: '/images/106.jpg', title: '표정은 차분하지만 속마음은 ‘제발 내 번호…!' },
+  { id: 20, type: 'event', url: '/images/107.jpg', title: '번호 불리자마자 일어나는 속도 = 청년부급' },
+  { id: 21, type: 'event', url: '/images/108.jpg', title: '경품 전달의 순간… 두 손으로 공손하게 행복 전달 중' },
+  { id: 22, type: 'event', url: '/images/109.jpg', title: '오늘 제일 가벼운 발걸음으로 무대 입장' },
+  { id: 23, type: 'event', url: '/images/110.jpg', title: '선물 하나에 온 교회가 흐뭇해지는 순간' },
+  { id: 24, type: 'event', url: '/images/111.jpg', title: '복도 런웨이 걸으시는데 뒤에서 응원단 자동 결성' },
+  { id: 25, type: 'event', url: '/images/112.jpg', title: '스크린에 우리 팀 나오면 자동으로 박수 모드' },
+  { id: 26, type: 'event', url: '/images/113.jpg', title: '사진 속 팀워크가 화면 밖까지 전달되는 느낌!' },
+
+
+
+
 ];
 
 const phrases = [
