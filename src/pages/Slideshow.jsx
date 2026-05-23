@@ -143,13 +143,13 @@ const Slideshow = () => {
       {/* Background Music */}
       {/* 
         참고: 잔잔하고 홀리한 음악을 사용하기 위해, 
-        원하시는 mp3 파일을 다운받아 'public' 폴더 안에 'bgm.mp3' 라는 이름으로 넣어주시면 됩니다. 
+        원하시는 mp3 파일을 다운받아 'public' 폴더 안에 'slideshow_music.mp3' 라는 이름으로 넣어주시면 됩니다. 
       */}
       <audio 
         ref={audioRef} 
         loop 
         muted={isMuted}
-        src="https://cdn.pixabay.com/download/audio/2022/11/22/audio_febc508520.mp3?filename=ambient-piano-126296.mp3" 
+        src="/slideshow_music.mp3" 
       />
     </div>
   );
